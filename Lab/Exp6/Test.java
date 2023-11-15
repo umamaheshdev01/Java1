@@ -14,10 +14,7 @@ public class Test {
         C obj = new C();
     }
 
-    static void Test2()
-    {
 
-    }
 
     static void Test3()
     {
